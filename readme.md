@@ -1,3 +1,6 @@
+name:Emmanuel Ezekiel Oche
+matric no:Vug/csc/22/7024
+
 # Simple Client-Server Application
 
 This is a simple client-server application implemented in Python. The server listens for client requests and responds with a message.
